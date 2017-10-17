@@ -1,0 +1,112 @@
+.nav-pills{
+  
+  font-size:1.7em;
+  margin-bottom:10%;
+ 
+}
+
+body{
+  background-color:aliceblue;
+  font-family:Lobster;
+  color:lightseagreen;
+  
+}
+h1{
+  padding:0;
+  margin-top:0px;
+  font-size:5.0em;
+}
+.block{
+  background-color:lightskyblue;
+  opacity:0.8;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  
+  border-radius:10px;
+}
+
+.btn-default{
+  color:#337ab7;
+  font-size:1.7em;
+}
+
+#githubIcon{
+  color:rgb(102, 43, 129);
+}
+
+#blogIcon{
+  color:black;
+}
+
+#linkedinIcon{
+  color:rgb(0, 127, 178);
+}
+
+.pageOne{
+  background:url("https://images.unsplash.com/reserve/tdedkQnQGCgIhk9eoEkP_DSC_0983.JPG?dpr=1&auto=compress,format&fit=crop&w=2106&h=&q=80&cs=tinysrgb&crop=");
+ 
+  background-size:cover;
+  padding-bottom:10%;
+
+}
+
+.pageTwo{
+  background:url("https://images.unsplash.com/photo-1487349384428-12b47aca925e?dpr=1&auto=compress,format&fit=crop&w=2100&h=&q=80&cs=tinysrgb&crop=");
+  background-size:cover;
+  height:800px;
+  padding-top:5%;
+/*   padding-bottom:50%; */
+}
+.paddingTop{
+  padding-top:7%;
+  padding-bottom:7%;
+}
+
+.paddingBTN{
+  padding-top:25%;
+  padding-bottom:25%;
+  width:200px;
+  margin-bottom:25px;
+}
+
+p{
+  font-size:2.5em;
+  margin-left:10%;
+}
+
+.me{
+  height:400px;
+/*   border-radius:70%; */
+}
+
+.pageThree{
+  background:url("https://images.unsplash.com/photo-1483004406427-6acb078d1f2d?dpr=1&auto=compress,format&fit=crop&w=2100&h=&q=80&cs=tinysrgb&crop=");
+  height:800px;
+  background-size:cover;
+  color:seagreen;
+}
+
+#tributePageBtn
+{
+  padding-top:10%;
+}
+.pageFour{
+  background:url("https://images.unsplash.com/photo-1498464619740-386503e7e7f5?dpr=1&auto=compress,format&fit=crop&w=2120&h=&q=80&cs=tinysrgb&crop=");
+  height:600px;
+  background-size:cover;
+  padding-top:1%;
+}
+
+.pageFour p{
+  padding-top:10%;
+  font-size:2em;
+}
+
+.form-group{
+  font-size:2em;
+}
+
+#message-box{
+  height:200px;
+}
